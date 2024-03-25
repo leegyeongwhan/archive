@@ -9,7 +9,7 @@
 | [ 네트워크1](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study) | `23-10-03 ~ 23-12-07` [2 month]      | 책 읽고 발표    | 📕[후니의 쉽게 쓴 시스코 네트워킹](https://www.yes24.com/Product/Goods/113485068) |
 | [ 네트워크2 ](https://github.com/CodeSquad-2023-BE-Study/Network-Study) | `23-05-13 ~ 23-07-17` [2 month]      | 책 읽고 발표    | 📕[성공과 실패를 결정하는 1%의 네트워크 원리](https://www.yes24.com/Product/Goods/90640081) |
 | [ JPA ](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study) | `23-07-06 ~ 23-09-25` [3 month]      | 책 읽고 발표    | 📕[자바 ORM 표준 JPA 프로그래밍](https://www.yes24.com/Product/Goods/19040233) |
-
+| [ 면접 스터디 ](https://github.com/CodeSquad-2023-BE-Study/InterviewStudy) | `23-10-19 ~ 진행중` [~ month]      | 모의 면접    |  |
 
 <br/>
 
